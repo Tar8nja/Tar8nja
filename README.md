@@ -13,6 +13,8 @@ I'm working in a monography about the efficiency of different methods of obtaini
 
 Check out my repository to learn more about it!
 
+https://github.com/Tar8nja/Aproximaciones-PI-Monografia
+
 
 
 
