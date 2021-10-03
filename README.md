@@ -1,10 +1,19 @@
-## Hi, I'm Tar8nja
+# Hi, I'm Tar8nja
 
 ### Begginer programmer!
 
 - 📚 Currently in the IB Programme 
 - 🐍 Learning C++ & Python
 - 🔬 Interested in Physics and Math
+
+
+
+### π Aproximations
+I'm working in a monography about the efficiency of different methods of obtaining π in domestic computers.
+
+Check out my repository to learn more about it!
+
+
 
 
 <!--
