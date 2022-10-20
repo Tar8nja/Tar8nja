@@ -2,9 +2,6 @@
 
 ## Begginer programmer!
 
-- 📚 Currently in the IB Programme 
-- 🐍 Learning C++ & Python
-- 🔬 Interested in Physics and Math
 
 
 
